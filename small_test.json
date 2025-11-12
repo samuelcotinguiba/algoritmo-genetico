@@ -1,0 +1,45 @@
+{
+  "capacity": 15,
+  "items": [
+    {
+      "name": "Caneta",
+      "weight": 1,
+      "value": 5
+    },
+    {
+      "name": "Caderno",
+      "weight": 3,
+      "value": 20
+    },
+    {
+      "name": "Livro",
+      "weight": 2,
+      "value": 30
+    },
+    {
+      "name": "Fone",
+      "weight": 5,
+      "value": 60
+    },
+    {
+      "name": "Garrafa",
+      "weight": 2,
+      "value": 15
+    },
+    {
+      "name": "Bloco",
+      "weight": 4,
+      "value": 25
+    },
+    {
+      "name": "Chave",
+      "weight": 1,
+      "value": 8
+    },
+    {
+      "name": "Carteira",
+      "weight": 6,
+      "value": 40
+    }
+  ]
+}
