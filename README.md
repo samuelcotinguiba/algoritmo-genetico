@@ -62,7 +62,3 @@ README.md               # Este arquivo
 
 - O operador de reparo remove itens pela pior razão valor/peso até que o peso caiba na capacidade. Soluções inviáveis recebem fitness muito negativo para nunca serem selecionadas.
 - O critério de estabilidade interrompe quando o melhor valor permanece o mesmo por 15 gerações consecutivas (padrão no `main.py`).
-
-## Licença
-
-Defina aqui a licença desejada (por exemplo, MIT, Apache-2.0, etc.).
